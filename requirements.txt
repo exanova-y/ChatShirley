@@ -1,0 +1,9 @@
+openai
+streamlit
+streamlit-chat
+pybase64
+textblob
+SpeechRecognition
+PyAudio
+gTTS
+playsound==1.2.2
