@@ -1,7 +1,8 @@
 # ChatShirley  
 
 
-**Run:** pip install -r requirements.txt  
+**How to use:** 
+Run pip install -r requirements.txt  
 Open terminal in the ChatShirley folder, and type: streamlit run chatshirley.py  
 
 **Troubleshooting:**  
