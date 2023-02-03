@@ -1,7 +1,9 @@
 # ChatShirley  
 
 
-**How to use:** 
+**Steps:** 
+Download repository.
+Get an openAI API key. Paste it into key.py  
 Open cmd/terminal in the ChatShirley folder.  
 Run pip install -r requirements.txt  
 Run streamlit run chatshirley.py   
