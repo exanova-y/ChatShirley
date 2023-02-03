@@ -1,7 +1,7 @@
 # ChatShirley  
 
 
-**Steps:** 
+**Steps:**   
 Download repository.
 Get an openAI API key. Paste it into key.py  
 Open cmd/terminal in the ChatShirley folder.  
