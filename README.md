@@ -2,8 +2,9 @@
 
 
 **How to use:** 
+Open cmd/terminal in the ChatShirley folder.  
 Run pip install -r requirements.txt  
-Open terminal in the ChatShirley folder, and type: streamlit run chatshirley.py  
+Run streamlit run chatshirley.py   
 
 **Troubleshooting:**  
 if voice recognition is not working, you should check the list of audio devices (Code included in chatshirley.py)
