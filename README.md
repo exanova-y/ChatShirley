@@ -1,5 +1,6 @@
 # ChatShirley  
 
+ChatGPT with an animated sheep.
 
 **Steps:**   
 Download repository.
